@@ -138,7 +138,7 @@ Optional:
 <img src="https://i.imgur.com/sgzduCj.png" width=600>
 
 ## Interactive Prototype
-<img src="https://i.imgur.com/A272SSO.gif" width=300>
+<img src="https://i.imgur.com/A272SSO.gif" width=600>
 
 ## Schema 
 
@@ -245,4 +245,42 @@ Optional:
    - Garage Screen
       - (Filter/POST) Show existing favorite cars with conditions3
       - (Delete) Delete existing owned car item object
+
+## Milestone1
+- [x] User can login(required)
+- [x] Create new accounts before login(required)
+- [x] User Profile First Design(required)
+- [x] Search Tab Table View created(required)
+
+## Video Walkthrough1
+<img src="https://i.imgur.com/Eg4h7Ij.gif" width=400>
+
+## Milestone2
+- [x] User can auto login/logout(required)
+- [x] User Profile could change according to gender(required)
+- [x] Create user garage table views(required)
+- [x] Build database and upload it to back4app(required)
+- [x] Upload image files into server and connect through api(required)
+- [x] Build map for self-loaction and location search(required)
+
+
+## Video Walkthrough2
+<img src="https://i.imgur.com/YvA8IY3.gif" width=400>
+
+## Milestone3
+- [x] Skim / communicate with posts(optional)
+- [x] User can search and view car details(required)
+- [x] User can add cars or remove cars from garage in car details page(optional)
+- [x] User can filter to search gas station, car rental, parking, EV charger in map function(optional)
+- [x] User can post, comment, add picture in the home screen(required)
+- [x] User can thumb up or thumb down on posts(optional)
+- [x] User can read the full text when clicks on each post(required)
+- [x] User can see the detail information of the user who posted the post(required)
+- [x] User edit the profile image, status, nickname, and bio(required)
+
+## Video Walkthrough3
+<img src="https://i.imgur.com/A8GaP8b.gif" width=400>
+ 
+
+
 
